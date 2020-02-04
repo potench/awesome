@@ -1,6 +1,6 @@
 # Awesome
 
-Curated List of Awesome Tools
+Inspired by all the "awesome-${anything}" lists out here on github, this is just a list of notes, links, and resources on various frontend topics. 
 
 ## Privacy Tools
 
